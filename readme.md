@@ -1,2 +1,3 @@
-###Vue - The Complete Guide
-##Vue Basics
+### Vue - The Complete Guide
+
+## Vue Basics
